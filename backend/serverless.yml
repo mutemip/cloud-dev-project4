@@ -1,6 +1,6 @@
 org: mutemip
-app: mutemip-serverless-app1
-service: mutemip-serverless-app1
+app: mutemip-app1
+service: mutemip-app1
 frameworkVersion: "3"
 plugins:
   - serverless-webpack
